@@ -1,3 +1,5 @@
+#Ganesha'a Pattern |[Problem](https://hack.codingblocks.com/app/practice/6/1055/problem)
+
 #include<iostream>
 using namespace std;
 
